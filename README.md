@@ -15,3 +15,7 @@
 
 刑期预测：根据刑事法律文书中的案情描述和事实部分，预测被告人的刑期长短。
 
+结果展示：
+
+
+![Image text](https://github.com/boyuhe/CAIL/blob/master/pictures/_5e99e1c6-d575-4904-b7f5-3c307897ac40.png)
